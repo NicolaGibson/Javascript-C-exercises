@@ -1,1 +1,1 @@
-# Javascript-C-exercises
+# Javascript-C++-exercises
